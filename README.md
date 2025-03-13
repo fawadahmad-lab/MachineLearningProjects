@@ -57,5 +57,5 @@ If you'd like to contribute, feel free to fork this repo, raise issues, or sugge
 
 📍 **Fawad Qureshi**  
 📩 Email: fawadqureshi136@gmail.com  
-🌐 Portfolio: [my-portfolio-onebeta-93.vercel.app](https://my-portfolio-onebeta-93.vercel.app/)  
-🔗 LinkedIn: [linkedin.com/in/fawadqureshi-034481216](https://www.linkedin.com/in/fawadqureshi-034481216)  
+🌐 Portfolio: [my-portfolio-onebeta-93.vercel.app](https://fawadqureshi.vercel.app/)  
+🔗 LinkedIn: [linkedin.com/in/fawadqureshi-034481216](https://www.linkedin.com/in/fawad-qureshi-b684aa346/)  
